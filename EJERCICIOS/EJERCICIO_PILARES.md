@@ -4,6 +4,8 @@ Mi base https://www.db-fiddle.com/f/9uHrd4ysg3hbqSGRDNFYjK/0
 
 Mi base actualizada https://www.db-fiddle.com/f/9uHrd4ysg3hbqSGRDNFYjK/1
 
+https://www.db-fiddle.com/f/9uHrd4ysg3hbqSGRDNFYjK/2
+
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
 
 
