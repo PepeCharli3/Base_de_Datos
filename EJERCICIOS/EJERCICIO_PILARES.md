@@ -8,6 +8,8 @@ https://www.db-fiddle.com/f/9uHrd4ysg3hbqSGRDNFYjK/2
 
 https://www.db-fiddle.com/f/9uHrd4ysg3hbqSGRDNFYjK/3
 
+https://www.db-fiddle.com/f/9uHrd4ysg3hbqSGRDNFYjK/4  /*Triggers*/
+
 https://www.db-fiddle.com/f/eeq5shQc7eSB4DLAEwn7tZ/0
 
 https://www.db-fiddle.com/f/eeq5shQc7eSB4DLAEwn7tZ/1
