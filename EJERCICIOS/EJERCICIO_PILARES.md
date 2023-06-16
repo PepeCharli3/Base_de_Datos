@@ -12,7 +12,9 @@ https://www.db-fiddle.com/f/9uHrd4ysg3hbqSGRDNFYjK/4  /*Triggers*/
 
 PRODUCTOS:
 https://www.db-fiddle.com/f/eeq5shQc7eSB4DLAEwn7tZ/0
+
 https://www.db-fiddle.com/f/eeq5shQc7eSB4DLAEwn7tZ/1
+
 https://www.db-fiddle.com/f/eeq5shQc7eSB4DLAEwn7tZ/2
 
 PROYECTO FINAL: https://www.db-fiddle.com/f/Rqsza1sef3MvbpsTKfTEE/0
